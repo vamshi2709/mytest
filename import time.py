@@ -22,4 +22,4 @@ names()
 # a = add(1,2)
 # b = add(2,3,4,5,6,7)
 
-# print(a,b)
+print(a,b)
